@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D1931791-F9DA-41AF-B887-767308BDCB60"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B1B8FED-63F5-4F54-8CA8-F1AAB487D013"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NativeAvatar/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B1B8FED-63F5-4F54-8CA8-F1AAB487D013 - 257b97025e95a626"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeAvatar.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NativeAvatar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanislavsokolov/Xcode/NativeAvatar/NativeAvatar/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "5328">
+               </Location>
+               <Location
+                  uuid = "8B1B8FED-63F5-4F54-8CA8-F1AAB487D013 - 257b97025e95a626"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NativeAvatar.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NativeAvatar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanislavsokolov/Xcode/NativeAvatar/NativeAvatar/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "5992">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
