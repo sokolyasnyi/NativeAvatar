@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2754FB452B89141800C2D792 /* CustomLargeTitleNavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2754FB442B89141800C2D792 /* CustomLargeTitleNavigationBar.swift */; };
 		27A894792B87369C00B3617D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A894782B87369C00B3617D /* AppDelegate.swift */; };
 		27A8947B2B87369C00B3617D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A8947A2B87369C00B3617D /* SceneDelegate.swift */; };
 		27A8947D2B87369C00B3617D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A8947C2B87369C00B3617D /* ViewController.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2754FB442B89141800C2D792 /* CustomLargeTitleNavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLargeTitleNavigationBar.swift; sourceTree = "<group>"; };
 		27A894752B87369C00B3617D /* NativeAvatar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NativeAvatar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27A894782B87369C00B3617D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27A8947A2B87369C00B3617D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 				27A894782B87369C00B3617D /* AppDelegate.swift */,
 				27A8947A2B87369C00B3617D /* SceneDelegate.swift */,
 				27A8947C2B87369C00B3617D /* ViewController.swift */,
-				2754FB442B89141800C2D792 /* CustomLargeTitleNavigationBar.swift */,
 				27A894812B87369E00B3617D /* Assets.xcassets */,
 				27A8948C2B8738C300B3617D /* Main.storyboard */,
 				27A894832B87369E00B3617D /* LaunchScreen.storyboard */,
@@ -144,7 +141,6 @@
 				27A8947D2B87369C00B3617D /* ViewController.swift in Sources */,
 				27A894792B87369C00B3617D /* AppDelegate.swift in Sources */,
 				27A8947B2B87369C00B3617D /* SceneDelegate.swift in Sources */,
-				2754FB452B89141800C2D792 /* CustomLargeTitleNavigationBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
